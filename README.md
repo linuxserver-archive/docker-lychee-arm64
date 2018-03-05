@@ -80,4 +80,5 @@ Setup mysql/mariadb and account via the webui, more info at [lychee][appurl].
 
 ## Versions
 
++ **05.03.18:** Correct BaseImage.
 + **08.01.18:** Initial Release.
