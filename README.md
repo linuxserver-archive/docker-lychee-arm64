@@ -80,5 +80,6 @@ Setup mysql/mariadb and account via the webui, more info at [lychee][appurl].
 
 ## Versions
 
++ **04.09.18:** Rebase to alpine linux 3.8.
 + **05.03.18:** Correct BaseImage.
 + **08.01.18:** Initial Release.
